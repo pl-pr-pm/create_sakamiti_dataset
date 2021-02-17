@@ -1,0 +1,2 @@
+# create_sakamiti_dataset
+坂道グループの学習データ作成
